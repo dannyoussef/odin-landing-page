@@ -206,3 +206,17 @@ ul {
 }
 
 /* Section 5 */
+
+#section-5 {
+  display: flex;
+  background-color: #1f2937;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+#footer {
+  flex: 1;
+  color: #e5e7eb;
+  text-align: center;
+  font-size: 18px;
+}
